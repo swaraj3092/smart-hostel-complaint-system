@@ -71,6 +71,11 @@ Your complaint #A3F8C201 has been resolved!
 Thank you for reporting. — Hostel Management
 ```
 
+**Live deployment:** [https://hostel-complaint-system-1-r1g3.onrender.com](https://hostel-complaint-system-1-r1g3.onrender.com)
+
+---
+
+
 
 ## 📸 Screenshots
 
@@ -85,10 +90,6 @@ Thank you for reporting. — Hostel Management
 
 ### Student receives resolution notification
 ![Resolution Notification](docs/screenshots/resolution-notification.jpeg)
-
-
-
-**Live deployment:** [https://hostel-complaint-system-1-r1g3.onrender.com](https://hostel-complaint-system-1-r1g3.onrender.com)
 
 ---
 
