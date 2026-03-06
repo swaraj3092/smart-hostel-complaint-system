@@ -257,14 +257,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 👥 Team
-
-| Member |
-|---|---|
-| 23053092 |
-| 23052822 |
-
----
 
 ## 📜 License
 
