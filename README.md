@@ -261,10 +261,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 | Member | Role |
 |---|---|
-| Member 1 | Backend & API (Flask, routes, webhook) |
-| Member 2 | Database & Integration (Supabase, Twilio) |
-| Member 3 | AI/ML (Classifier, keyword logic, NLP) |
-| Member 4 | DevOps & Email (Render, Resend, monitoring) |
+| 23053092 |
+| 23052822 |
 
 ---
 
