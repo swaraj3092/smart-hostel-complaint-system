@@ -40,7 +40,7 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Image analysis
 ```
 
-Example keywords: minor, small, cosmetic, slightly, paint, scratch
+
 
 Also add a test in tests/test_classifier.py for LOW priority.
 
