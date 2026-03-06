@@ -159,7 +159,7 @@ Full diagram → [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-hostel-complaint-system.git
+git clone git clone https://github.com/swaraj3092/fixxo.git
 cd smart-hostel-complaint-system
 
 python -m venv venv
